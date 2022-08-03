@@ -1,5 +1,5 @@
 function isNumber(val) {
-  return !!Number(val);
+  return val + 'lol';
 }
 
 module.exports = isNumber
