@@ -1,1 +1,5 @@
-console.log(1);
+function isNumber(val) {
+  return !!Number(val);
+}
+
+module.exports = isNumber
